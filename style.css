@@ -39,18 +39,61 @@ footer {
     padding-right: 240px;
 }
 
-table {
+
+
+/*Footer section styles*/
+
+.footer-head table {
     width: 70%;
 }
 
-.footer-end {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.footer-head td {
+    padding: 4px 0px;
+    font-size: 14px;
 }
 
 .footer-head {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+}
+
+.footer-head button img {
+    height: 20px;
+    width: 20px;
+}
+
+.footer-head button {
+    background-color: #1C1D1F;
+    align-items: center;
+    border-color: white;
+    height: 40px;
+    width: 140px;
+    padding: 0px 16px;
+}
+
+.footer-head button span {
+    color: white;
+    font-size: 16px;
+    margin: 0px 0px 0px 4px;
+}
+
+footer {
+    padding: 24px 48px 0px;
+}
+
+.footer-end {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px 0px 32px;
+}
+
+.footer-end img {
+    width: 91.06px;
+    height: 34.19px;
+}
+
+.footer-end span{
+    font-size: 12px;
 }
