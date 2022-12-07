@@ -14,10 +14,9 @@ body {
     color: white;
 }
 
-footer {
-    background-color: #1C1D1F;
-}
 
+
+/*DIVISION 1  Styles*/
 .division1 {
     background-color: #5624d0;
     display: flex;
@@ -41,7 +40,7 @@ footer {
 
 
 
-/*Footer section styles*/
+/*FOOTER SECTION Styles*/
 
 .footer-head table {
     width: 70%;
@@ -61,10 +60,13 @@ footer {
 .footer-head button img {
     height: 20px;
     width: 20px;
+    color: white;
 }
 
 .footer-head button {
     background-color: #1C1D1F;
+    display: flex;
+    justify-content: center;
     align-items: center;
     border-color: white;
     height: 40px;
@@ -80,6 +82,7 @@ footer {
 
 footer {
     padding: 24px 48px 0px;
+    background-color: #1C1D1F;
 }
 
 .footer-end {
