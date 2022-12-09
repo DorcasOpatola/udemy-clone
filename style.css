@@ -44,6 +44,37 @@ body {
 
 
 
+/*CLASS 1 Styles*/
+button {
+    background-color: #1c1d1f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 12px;
+    border-radius: 0px;
+    min-width: 120px;
+    height: 48px;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.class1,
+.class2,
+.class4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.class1 p {
+    font-size: 19px;
+    font-weight: normal;
+    margin: 0px 0px 16px;
+}
+
+.header-tag h2 {
+    font-size: 30px;
+}
 
 /*FOOTER SECTION Styles*/
 footer {
