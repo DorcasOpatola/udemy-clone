@@ -44,7 +44,41 @@ body {
 
 
 
-/*CLASS 1 Styles*/
+/*CLASS 3 Styles*/
+.class3 {
+    padding: 24px;
+    margin: 0px 4.5px;
+    background-color: #f7f9fa;
+}
+
+.cass3 {
+    margin: 64px 0px 96px;
+}
+
+.class3a {
+    display: block;
+    text-align: center;
+    color: #1c1d1f;
+}
+
+.class3a h2 {
+    font-size: 24px;
+}
+
+.class3a p {
+    margin: 8px 0px 24px;
+    font-size: 16px;
+}
+
+.class3b {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+/*CLASS 1, CLASS 2  &  CLASS 4 Styles*/
 button {
     background-color: #1c1d1f;
     color: #fff;
@@ -77,6 +111,10 @@ button {
 .class1 img,
 .class4 img {
     margin: 0px 96px 0px 0px;
+}
+
+.class1 .header-tag {
+    padding-left: 50px;
 }
 
 .header-tag h2 {
