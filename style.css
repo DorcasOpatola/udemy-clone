@@ -64,20 +64,29 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0px 150px;
 }
 
-.class1 p {
+.class1 p,
+.class2 p,
+.class4 p {
     font-size: 19px;
     font-weight: normal;
     margin: 0px 0px 16px;
 }
+.class1 img,
+.class4 img {
+    margin: 0px 96px 0px 0px;
+}
 
 .header-tag h2 {
     font-size: 30px;
+    margin: 0px 0px 16px;
 }
 
-.class1 {
-    padding: 0px 200px;
+.class2 .header-tag {
+    margin: 0px 96px 0px 0px;
+    padding: 0px 50px;
 }
 
 /*FOOTER SECTION Styles*/
