@@ -127,6 +127,8 @@ button {
     padding: 0px 50px;
 }
 
+
+
 /*FOOTER SECTION Styles*/
 footer {
     padding: 24px 48px 0px;
@@ -155,7 +157,7 @@ footer {
     color: white;
 }
 
-.footer-head button {
+.footer-head .button {
     background-color: #1C1D1F;
     display: flex;
     justify-content: center;
@@ -164,6 +166,7 @@ footer {
     height: 40px;
     width: 140px;
     padding: 0px 16px;
+    border: 1px;
 }
 
 .footer-head button span {
