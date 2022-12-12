@@ -108,6 +108,12 @@ button {
     font-weight: normal;
     margin: 0px 0px 16px;
 }
+
+.class1a {
+    padding: 40px 0px;
+    margin: 64px 0px 96px;
+}
+
 .class1 img,
 .class4 img {
     margin: 0px 96px 0px 0px;
@@ -125,6 +131,10 @@ button {
 .class2 .header-tag {
     margin: 0px 96px 0px 0px;
     padding: 0px 50px;
+}
+
+.class2 .header-tag img {
+    margin: 0px 0px 16px;
 }
 
 
