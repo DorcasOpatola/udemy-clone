@@ -213,6 +213,14 @@ button {
     align-items: center;
 }
 
+.real-images {
+    list-style: none;
+}
+
+.queer-images div {
+    padding: 0px 20px 0px 0px;
+}
+
 .class6 ul {
     padding: 0px;
 }
@@ -224,8 +232,8 @@ button {
 }
 
 .queer-images img {
-    height: 273.75px;
-    width: 273.75px;
+    height: 291.75px;
+    width: 291.75px;
 }
 
 .queer-images p {
