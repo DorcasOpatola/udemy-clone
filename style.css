@@ -137,6 +137,16 @@ button {
     margin: 0px 0px 16px;
 }
 
+/*CLASS 5 Styles*/
+.class5 {
+    padding: 64px 24px;
+    background-color: transparent;
+}
+
+.class5 h2 {
+    font-size: 24px;
+    margin: 0px 24px 8px 0px;
+}
 
 
 /*FOOTER SECTION Styles*/
