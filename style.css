@@ -204,21 +204,24 @@ button {
 /*CLASS 6 Styles*/
 .class6 {
     padding: 0px 24px;
-    margin: 64px 0px 0px;
+    margin: 64px 0px 32px 0px;
 }
 
 .queer-images {
     display: flex;
-    justify-content: space-between;
+    justify-content: baseline;
     align-items: center;
 }
 
-.h2 {
+.class6 ul {
+    padding: 0px;
+}
+
+.class6 h2 {
     font-size: 24px;
     font-weight: bold;
     margin: 0px 0px 24px;
 }
-
 
 .queer-images img {
     height: 273.75px;
