@@ -144,10 +144,47 @@ button {
 }
 
 .class5 h2 {
+    color: #1c1d1f;
     font-size: 24px;
-    margin: 0px 24px 8px 0px;
+    margin: 0px 0px 24px;
 }
 
+.a1 {
+
+}
+
+.a1 h3 {
+    color: #1c1d1f;
+    font-size: 19px;
+    margin: 0px 0px 24px;
+}
+
+.course {
+    color: #5624d0;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.student-number {
+    color: #6a6f73;
+    font-size: 14px;
+}
+
+#trendingb {
+    margin: -24px;
+}
+
+#trendingb {
+    
+}
+
+.class5 .div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
 
 /*FOOTER SECTION Styles*/
 footer {
