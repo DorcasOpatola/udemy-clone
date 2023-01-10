@@ -215,11 +215,20 @@ button {
     align-items: center;
 }
 
+.visible {
+    padding-left: 20px;
+}
+
+.rating {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 .price,
 .visible h3 {
     font-weight: bold;
     font-size: 16px;
-
 }
 
 #best-seller {
