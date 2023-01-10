@@ -277,6 +277,15 @@ button {
     font-weight: bold;
 }
 
+.oops {
+    max-height: 340.45px;
+    max-width: 100%;
+    padding: 24px;
+    border-color: 5px #6a6f73;
+    display: flex;
+    align-items: center;
+}
+
 /*CLASS 6 Styles*/
 .class6 {
     padding: 0px 24px;
