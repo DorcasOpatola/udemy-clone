@@ -41,8 +41,11 @@ body {
 
 
 /*NAV BAR Styles*/
-
-
+nav div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 /*CLASS 3 Styles*/
 .class3 {
@@ -284,6 +287,11 @@ button {
     border-color: 5px #6a6f73;
     display: flex;
     align-items: center;
+}
+
+.oops img {
+    max-width: 217px;
+    max-height: 124px;
 }
 
 /*CLASS 6 Styles*/
