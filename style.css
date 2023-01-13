@@ -45,8 +45,22 @@ nav div{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 72px;
+    width: 100%;
+    padding: 0px 24px;
+    background-color: #fff;
+    position: relative;
+    z-index: 1010;
 }
 
+nav {
+    box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+    z-index: 1010;
+}
+
+
+
+/*HEADER-IMAGE Styles*/
 .header-image {
     background-image: url("images/brown-girl.jpg");
     background-repeat: no-repeat;
