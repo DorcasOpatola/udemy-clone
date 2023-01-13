@@ -47,8 +47,28 @@ nav div{
     align-items: center;
 }
 
-.header {
-    background-image: ;
+.header-image {
+    background-image: url("images/brown-girl.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    height: 500px;
+}
+
+.header-text {
+    padding: 24px;
+    background-color: #fff;
+    position: absolute;
+    top: 30%;
+    left: 40px;
+    max-width: 440px;
+}
+
+.header-text h2 {
+    font-size: 32px;
+}
+
+.header-text p {
+    font-size: 19px;
 }
 
 /*CLASS 3 Styles*/
